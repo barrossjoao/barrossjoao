@@ -7,14 +7,15 @@ Sou um desenvolvedor full stack com ampla experiência em projetos web e mobile.
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 10px;">
   <img
+ src="https://github-readme-stats-iota-nine-21.vercel.app/api/top-langs/?username=barrossjoao&theme=dark&show_icons=true&hide_border=true&layout=compact"
+ alt="Linguagens mais utilizadas"
+/>
+  <img
     src="https://github-readme-stats-iota-nine-21.vercel.app/api?username=barrossjoao&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
     alt="Estatísticas do GitHub"
   />
 
-<img
- src="https://github-readme-stats-iota-nine-21.vercel.app/api/top-langs/?username=barrossjoao&theme=dark&show_icons=true&hide_border=true&layout=compact"
- alt="Linguagens mais utilizadas"
-/>
+
 
 </div>
 
